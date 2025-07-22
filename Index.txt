@@ -1,0 +1,16 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Redirecting...</title>
+  <script>
+    window.onload = function() {
+      window.open("https://www.google.com/", "_blank");
+      window.open("https://www.w3schools.com/sql/", "_blank");
+    };
+  </script>
+</head>
+<body>
+  <p>Opening links... If nothing happens, please <a href="https://examplehttps://another-example.com.</p>
+</body>
+</html>
